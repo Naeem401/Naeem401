@@ -42,12 +42,6 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage-server)](https://github.com/MdNaeemMia/edumanage-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage)](https://github.com/MdNaeemMia/edumanage)
-### VolunteerSphere Project
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Naeem401&repo=VolunteerSphere)](https://github.com/Naeem401/VolunteerSphere)
-
-VolunteerSphere is a web platform that connects volunteers with organizations seeking help for various causes. It provides features for volunteer registration, project management, and real-time communication between volunteers and organizers.
-
 
 ## Project: EduManage
 
@@ -82,3 +76,36 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Naeem401/edumanage.git
    cd edumanage
+
+## Project: VolunteerSphere
+
+### Project Overview
+
+- VolunteerSphere is a web platform that connects volunteers with organizations seeking help for various causes. It provides features for volunteer registration, project management, and real-time communication between volunteers and organizers.
+
+### Features
+
+- User registration and authentication system
+- Dashboard for managing volunteer profiles and projects
+- Real-time messaging and updates for volunteers and organizations
+- Responsive UI for seamless user experience
+
+### Technologies Used
+
+- React.js for front-end development
+- Firebase for authentication and real-time database
+- Material-UI for UI components
+- Firebase Hosting for deployment
+
+### Live Link
+
+[![Live Link](https://img.shields.io/badge/-Live%20Link-9cf?style=flat-square)](https://volunteersphere-3fe43.web.app/)
+
+### Running Locally
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Naeem401/VolunteerSphere.git
+   cd VolunteerSphere
