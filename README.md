@@ -15,15 +15,15 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MdNaeemMia&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Naeem401&show_icons=true&theme=radical)
 
 
 ## Daily Streak
 
-![Daily Streak](https://github-readme-streak-stats.herokuapp.com/?user=MdNaeemMia&theme=radical)
+![Daily Streak](https://github-readme-streak-stats.herokuapp.com/?user=Naeem401&theme=radical)
 
 
 ## Language Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MdNaeemMia&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naeem401&layout=compact&theme=radical)
 
