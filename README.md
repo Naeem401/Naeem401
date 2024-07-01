@@ -72,4 +72,3 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Naeem401/edumanage.git
    cd edumanage
-
