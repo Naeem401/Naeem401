@@ -64,6 +64,10 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 - Material-UI for UI components
 - Firebase Hosting for deployment
 
+  ### Live Link
+
+[![Live Link](https://img.shields.io/badge/-Live%20Link-9cf?style=flat-square)](https://edumanage-8f958.web.app/)
+
 ### Running Locally
 
 To run this project locally, follow these steps:
