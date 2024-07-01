@@ -40,9 +40,6 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 
 ## Pinned Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage-server)](https://github.com/MdNaeemMia/edumanage-server)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage)](https://github.com/MdNaeemMia/edumanage)
-
 ## Project: EduManage
 
 ### Project Overview
@@ -61,7 +58,6 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 - React.js for front-end development
 - Firebase for authentication and real-time database
 - Firestore for storing course and student data
-- Material-UI for UI components
 - Firebase Hosting for deployment
 
 ### Live Link
@@ -76,6 +72,7 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Naeem401/edumanage.git
    cd edumanage
+
 
 ## Project: VolunteerSphere
 
@@ -109,3 +106,37 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Naeem401/VolunteerSphere.git
    cd VolunteerSphere
+
+   ## Project: AsiaAdventuresHub
+
+### Project Overview
+
+AsiaAdventuresHub is a web platform designed to facilitate adventure tourism in Asia. It provides features for travelers to explore adventure activities, book tours, and manage their travel itineraries.
+
+### Features
+
+- User registration and authentication system
+- Search and browse adventure activities
+- Booking and payment system for tours
+- Interactive maps and location-based services
+
+### Technologies Used
+
+- React.js for front-end development
+- Firebase for authentication, real-time database, and hosting
+- Material-UI for UI components
+- Firebase Cloud Functions for backend logic
+
+### Live Link
+
+[![Live Link](https://img.shields.io/badge/-Live%20Link-9cf?style=flat-square)](https://asiaadventureshub.web.app/)
+
+### Running Locally
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Naeem401/AsiaAdventuresHub.git
+   cd AsiaAdventuresHub
+
