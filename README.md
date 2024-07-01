@@ -33,7 +33,6 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Auth](https://img.shields.io/badge/-Auth-4479A1?style=flat-square&logo=auth0&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/-DaisyUI-38B2AC?style=flat-square&logo=daisyui&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
