@@ -8,4 +8,4 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 
 - 🌱 I’m currently learning advanced React and Node.js
 - 💼 Open to new opportunities and collaborations
-- 📫 How to reach me: [Email](mailto:naeemmia4@gmail.com
+- 📫 How to reach me: [Email](mailto:mdnaeemm401@gmail.com)
