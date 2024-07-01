@@ -38,6 +38,38 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
 ![Mumba UI](https://img.shields.io/badge/-Mumba%20UI-0081CB?style=flat-square&logo=mumba-ui&logoColor=white)
 ![AOS Animation](https://img.shields.io/badge/-AOS%20Animation-424242?style=flat-square&logo=aos&logoColor=white)
+## Pinned Repositories
 
-https://edumanage-8f958.web.app/
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage-server)](https://github.com/MdNaeemMia/edumanage-server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage)](https://github.com/MdNaeemMia/edumanage)
+
+## Project: EduManage
+
+### Project Overview
+
+- EduManage is a web application designed to manage educational institutions, providing features for student enrollment, course management, and administrative tasks.
+
+### Features
+
+- User authentication and authorization system
+- Dashboard for administrators to manage students and courses
+- Registration and enrollment workflows
+- Interactive UI with responsive design
+
+### Technologies Used
+
+- React.js for front-end development
+- Firebase for authentication and real-time database
+- Firestore for storing course and student data
+- Material-UI for UI components
+- Firebase Hosting for deployment
+
+### Running Locally
+
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Naeem401/edumanage.git
+   cd edumanage
 
