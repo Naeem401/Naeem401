@@ -42,7 +42,12 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage-server)](https://github.com/MdNaeemMia/edumanage-server)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=MdNaeemMia&repo=edumanage)](https://github.com/MdNaeemMia/edumanage)
+### VolunteerSphere Project
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Naeem401&repo=VolunteerSphere)](https://github.com/Naeem401/VolunteerSphere)
+
+VolunteerSphere is a web platform that connects volunteers with organizations seeking help for various causes. It provides features for volunteer registration, project management, and real-time communication between volunteers and organizers.
+
 
 ## Project: EduManage
 
