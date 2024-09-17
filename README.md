@@ -12,8 +12,8 @@ Hello! I am Md Naeem Mia, a passionate web developer with expertise in modern we
 
 ## Commit Activity
 
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Naeem401/edumanage-server?style=flat-square)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/Naeem401/mobile-store-server-new?style=flat-square)
+![Commit Activity - EduManage Server](https://img.shields.io/github/commit-activity/m/Naeem401/edumanage-server?style=flat-square)
+![Commit Activity - Mobile Store Server](https://img.shields.io/github/commit-activity/m/Naeem401/mobile-store-server-new?style=flat-square)
 
 
 ## GitHub Stats
